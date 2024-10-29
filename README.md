@@ -14,7 +14,7 @@
 
 - **Framework**
 
-<img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="img.shields.io/badge/vuejs-4FC08D?style=for-the-badge&logo=vuejs&logoColor=white">
 
 - **State Management (3rd Library)**
 
